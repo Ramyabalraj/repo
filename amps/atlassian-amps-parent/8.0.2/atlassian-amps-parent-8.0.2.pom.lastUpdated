@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 19:36:48 IST 2020
+@default-atlassian-public-https\://maven.atlassian.com/repository/public/.lastUpdated=1592662008675
+file\://C\:\\Applications\\Atlassian\\atlassian-plugin-sdk-8.0.16/repository/.lastUpdated=1592662008801
+https\://maven.atlassian.com/repository/public/.error=Could not transfer artifact com.atlassian.amps\:atlassian-amps-parent\:pom\:8.0.2 from/to atlassian-public (https\://maven.atlassian.com/repository/public)\: maven.atlassian.com
